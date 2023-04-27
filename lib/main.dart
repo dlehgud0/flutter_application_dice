@@ -2,6 +2,7 @@ import 'dart:async';
 
 import 'package:flutter/material.dart';
 import 'dice.dart';
+import 'package:numberpicker/numberpicker.dart';
 
 void main() {
   runApp(const MyApp());
